@@ -1,5 +1,5 @@
 {
-  "name": "JasonWang/php-style-check",
+  "name": "jasonwang/php-style-check",
   "description": "JasonWang's shared PHP style rules for PHP-CS-Fixer",
   "license": "MIT",
   "require": {
